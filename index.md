@@ -6,3 +6,6 @@ Der Held dieser Seite heisst Wallace.
 * Ausgeglichen
 * Zuverlässig
 * Immer gut drauf
+
+Um mit Wallace zu sprechen:
+> Es geht doch nichts über einen Happen Wensleydale-Käse am Nachmittag
