@@ -20,9 +20,9 @@ Um mit Wallace zu sprechen:
 
 <table>
 <tr><td>
-Copyright Aardman / Wallace & Gromit Ltd 2002
+<img src="https://www.rheinmain4family.de/fileadmin/_processed_/2/9/csm_12._Wallace___Gromit__c__02a81144a7.jpg"/>
 </td></tr>
 <tr><td>
-<img src="https://www.rheinmain4family.de/fileadmin/_processed_/2/9/csm_12._Wallace___Gromit__c__02a81144a7.jpg"/>
+Copyright Aardman / Wallace & Gromit Ltd 2002
 </td></tr>
 </table>
